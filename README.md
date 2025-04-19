@@ -1,2 +1,3 @@
 # TC25_Presentation_Files
-Tableau Conference 25 workbook and prep files
+Files demo'd during the Tableau Conference 2025 talk.
+Repositry contains Tableau packaged workbook and packaged Tableau prep builder files.
